@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-ng-d5492": {
+      "hosting": {
+        "crud": [
+          "fir-ng-d5492"
+        ]
+      }
+    }
+  }
+}
